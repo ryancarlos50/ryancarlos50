@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ryancarlos50
+- 👀 I’m interested in Data Science and gaining Business Insights through Data Analysis 
+- 🌱 I’m currently pursuing my masters in Marketing Science and Business Analytics at The University of Pittsburgh 
+- 💞️ I’m looking to collaborate on data science projects 
